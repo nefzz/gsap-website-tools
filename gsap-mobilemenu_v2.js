@@ -1,4 +1,4 @@
-//GSAP MOBILE MENU V@
+//GSAP MOBILE MENU V2
 
 document.addEventListener("DOMContentLoaded", function () {
     const menu = document.querySelector(".menu");
